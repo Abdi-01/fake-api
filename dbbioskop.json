@@ -1,0 +1,14 @@
+{
+    "dbuser":[
+        {
+            "username":"Admin",
+            "password":"admin",
+            "role":"admin"
+        },
+        {
+            "username":"Al",
+            "password":"1234",
+            "role":"user"
+        }
+    ]
+}

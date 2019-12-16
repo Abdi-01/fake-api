@@ -1,0 +1,55 @@
+{
+  "dbuser": [
+    {
+      "id": 1,
+      "username": "Admin",
+      "password": "Admin",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "Al",
+      "password": "1234",
+      "role": "user"
+    },
+    {
+      "username": "Ibnu",
+      "password": "12345",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "Abdi",
+      "password": "09876",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "Mikhel",
+      "password": "123456789",
+      "role": "user",
+      "id": 5
+    }
+  ],
+  "dbproduct": [
+    {
+      "nama_produk": "Samsung Galaxy Note 10",
+      "gambar_produk": "https://s23527.pcdn.co/wp-content/uploads/2019/08/samsung-note-10.jpg.optimal.jpg",
+      "harga": 8500000,
+      "id": 1
+    },
+    {
+      "nama_produk": "Apple Iphone 11",
+      "gambar_produk": "https://images-na.ssl-images-amazon.com/images/G/01/appcore/phone/11pro/iPhone_11_Pro_Desktop_01._CB436769811_.jpg",
+      "harga": 10000000,
+      "id": 2
+    },
+    {
+      "nama_produk": "Huawei Mate 30",
+      "gambar_produk": "https://todotech20.com/tr/wp-content/uploads/2019/09/Huawei-Mate-30-Serisi-Resmen-Acildi-Etkileyici-Kameralar-Ama-Google.jpg",
+      "harga": 7500000,
+      "id": 3
+    }
+  ],
+  "dbcart": []
+}

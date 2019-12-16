@@ -80,22 +80,7 @@
         "Russel Tovey"
       ],
       "booked": [
-        [
-          1,
-          1
-        ],
-        [
-          1,
-          2
-        ],
-        [
-          3,
-          10
-        ],
-        [
-          3,
-          11
-        ]
+       
       ],
       "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157423720057093_287x421.jpg"
     },
@@ -114,18 +99,7 @@
         "Rachel Amanda"
       ],
       "booked": [
-        [
-          0,
-          0
-        ],
-        [
-          3,
-          8
-        ],
-        [
-          4,
-          18
-        ]
+        
       ],
       "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157138861225634_287x421.jpg"
     },
@@ -145,14 +119,7 @@
         "Ipda Dimas Adit S"
       ],
       "booked": [
-        [
-          3,
-          10
-        ],
-        [
-          3,
-          11
-        ]
+      
       ],
       "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157379161737188_287x421.jpg"
     },
@@ -172,18 +139,7 @@
         "Fay Nabila"
       ],
       "booked": [
-        [
-          4,
-          0
-        ],
-        [
-          4,
-          1
-        ],
-        [
-          4,
-          2
-        ]
+      
       ],
       "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157310760872775_287x421.jpg"
     },
